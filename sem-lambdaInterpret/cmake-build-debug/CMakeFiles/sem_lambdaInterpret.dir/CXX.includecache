@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/development/ClionProjects/ppa/sem-lambdaInterpret/main.cpp
+iostream
+-
+utility
+-
+vector
+-
+set
+-
+sstream
+-
+
